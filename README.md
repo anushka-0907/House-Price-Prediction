@@ -21,7 +21,7 @@ This project focuses on predicting house prices in **King County**, which includ
 * Jupyter Notebook
 * Google Colab compatible
 
-## 📊 Project Structure
+## Project Structure
 
 1. **Data Wrangling**: Handle missing values, drop irrelevant features, type conversion
 2. **Exploratory Data Analysis**: Visualize distributions, correlations, outliers
